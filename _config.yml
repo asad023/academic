@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Asad Ali Khan, Ph.D. Electrical Engineering"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Asad Ali Khan"
+description              : &description "Experienced graduate electrical engineer with a diverse background in the research and industry. Skilled in Matlab, Python, Power systems and Machine Learning . Strong research professional with a Doctor of Philosophy - PhD focused in Electrical and Electronics Engineering from The University of Texas at San Antonio."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Asad Ali Khan"
   avatar           : "profile1.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Lead Engineer"
   location         : "Pennsylvania, US"
-  employer         :
+  employer         : "Eaton"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Xqdz8hcAAAAJ"
   email            : "asad_023@yahoo.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/asad-ali-khan-ph-d-7854b132/
+  linkedin         : "https://www.linkedin.com/in/asad-ali-khan-ph-d-7854b132"
   orcid            : "https://orcid.org/0000-0002-6303-8693"
   pinterest        :
   soundcloud       :
